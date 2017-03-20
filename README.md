@@ -1,2 +1,3 @@
 * [Bootstrap demo](/topicmonkey)
-* [Coursera: Algorithms](/algorithms-percolation)
+* [Coursera, Algorithms: Percolation](/algorithms-percolation)
+* [Coursera, Algorithms: Queues](/algorithms-queues)
